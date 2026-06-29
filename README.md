@@ -2,8 +2,7 @@
 
 A Python-based voice assistant that can perform various tasks including opening applications, searching the web, and more.
 
-[## Demo Video
-![Smart Voice Assistant Interface](assets/videos/demog.gif)](https://github.com/KesavaRamaSanjeev/smart_voice_assistant)
+
 
 ## Features
 
